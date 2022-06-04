@@ -1,2 +1,2 @@
-# git_test
+# git　test
 gitについて学習
