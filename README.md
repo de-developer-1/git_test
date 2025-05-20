@@ -4,7 +4,7 @@
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/あなたのユーザー名/git-practice.git
+git clone git@github.com:de-developer-1/git_test.git
 
 # クローンしたディレクトリに移動
 cd git-practice
